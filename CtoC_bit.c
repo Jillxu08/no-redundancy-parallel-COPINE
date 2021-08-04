@@ -1,10 +1,5 @@
  /*  vtx C[15500];
     set C_bit[243];*/
-
-
-
-
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
