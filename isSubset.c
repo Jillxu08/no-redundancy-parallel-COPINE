@@ -19,5 +19,3 @@ int main(void){
 
   return 0;     
 }
-
-/把 C[k] 转换成 C_bit[k]
